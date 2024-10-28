@@ -1,0 +1,12 @@
+{
+  "name": "proyecto-pm2",
+  "version": "1.0.0",
+  "description": "Servidor Node.js básico con PM2 en Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "pm2 start ecosystem.config.js"
+  },
+  "dependencies": {},
+  "author": "Usuario",
+  "license": "MIT"
+}
